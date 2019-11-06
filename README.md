@@ -1,4 +1,4 @@
-<h1 align="center">Pizzeria :pizza:</h1>	
+<h1 align="center">React-Portfolio :react:</h1>	
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gerulisss/React-Portfolio">
