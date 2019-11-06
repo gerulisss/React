@@ -4,7 +4,6 @@
 </p>
 
 <p align="center"> 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gerulisss/React-Portfolio">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gerulisss/React-Portfolio?color=green&style=flat-square">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/gerulisss/React-Portfolio?color=yellow&style=flat-square">
