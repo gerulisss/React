@@ -1,6 +1,6 @@
 <h1 align="center">React-Portfolio</h1>	
 
-![React-Portfolio](https://github.com/gerulisss/React-Portfolio/blob/master/React-logo-1.png)
+![React-Portfolio](https://github.com/gerulisss/React-Portfolio/blob/master/react.png)
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gerulisss/React-Portfolio">
