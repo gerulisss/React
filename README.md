@@ -1,7 +1,6 @@
-<h1 align="center">React-Portfolio</h1>	
 
 <p align="center"> 
-<img src="https://github.com/gerulisss/React-Portfolio/blob/master/react.png">
+<img src="https://github.com/gerulisss/React-Portfolio/blob/master/react.png" alt="React-Portfolio">
 </p>
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
